@@ -1,3 +1,7 @@
+## Live Project
+
+To view this project in action, please refer to the [To-Do](https://melsovez.github.io/To-Do/).
+
 # Simple Alpine.js and Tailwind CSS App
 
 This is a minimalistic app built using Alpine.js and Tailwind CSS. It features an input field, a button, and a list where you can add and remove items. The items are also stored in the browser's local storage, so they persist even after refreshing the page.
