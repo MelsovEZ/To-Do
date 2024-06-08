@@ -4,12 +4,12 @@ To view this project in action, please refer to the [To-Do](https://melsovez.git
 
 # Simple Alpine.js and Tailwind CSS App
 
-This is a minimalistic app built using Alpine.js and Tailwind CSS. It features an input field, a button, and a list where you can add and remove items. The items are also stored in the browser's local storage, so they persist even after refreshing the page.
+This is a minimalistic app built using Alpine.js and Tailwind CSS. It features a list where you can add and remove items and that's all. The items are also stored in the browser's local storage.
 
 ## Technologies Used
 
-- [Alpine.js](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your HTML.
-- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.
+- [Alpine.js](https://github.com/alpinejs/alpine)
+- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 
 ## Setup
 
